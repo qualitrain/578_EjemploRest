@@ -1,4 +1,4 @@
-package mx.com.qtx.web;
+package mx.com.qtx.api;
 
 public class ErrorApi {
 	private String nombre;
